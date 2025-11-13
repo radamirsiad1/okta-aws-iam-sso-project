@@ -6,7 +6,9 @@ Overview
 
 The goal of this lab was to configure Okta as the **Identity Provider (IdP)** and AWS IAM Identity Center as the **Service Provider (SP)**, enabling secure authentication into AWS using Okta credentials.
 
-  Configuration Steps
+  
+Configuration Steps
+  
 - Created test users and groups in Okta (Alice Johnson, Bob Miller)
 - Enforced MFA through Okta authentication policies
 - Added and configured the **AWS IAM Identity Center** application in Okta
@@ -14,10 +16,12 @@ The goal of this lab was to configure Okta as the **Identity Provider (IdP)** an
 - Verified access by signing into AWS through the Okta user dashboard
 - Documented the entire process with step-by-step screenshots
 
-  Full Guide
+Full Guide
+  
  [Download the full walkthrough (PDF)](./Configure%20AWS%20IAM%20Identity%20Center%20with%20Okta.pdf)
 
-  Key Skills Demonstrated
+Key Skills Demonstrated
+  
 - Identity Federation (SAML 2.0)
 - Multi-Factor Authentication (MFA)
 - Cross-cloud identity management
@@ -29,6 +33,6 @@ The goal of this lab was to configure Okta as the **Identity Provider (IdP)** an
 - AWS Free Tier (IAM Identity Center)  
 - macOS Browser (Safari / Chrome)
 
-  About
+About
   
 Created by **Radamir Siad**
